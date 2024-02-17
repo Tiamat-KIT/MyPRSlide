@@ -283,7 +283,7 @@ h1 {
   授業やハッカソンでの発表において、スライドを作成する際、<br/>
   **Canva**を扱ってスライドを作っています。
 
-  <img alt="Canvaを用いたスライド作成の例" src="image.png" width="90%" />
+  <img alt="Canvaを用いたスライド作成の例" src="./public/image.png" width="90%" />
 
   </div>
   <div class="basis-1/2">
